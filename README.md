@@ -9,25 +9,24 @@ I'm passionate about building intelligent applications using Machine Learning, D
 - 💼 Software Trainee Intern at **360 Technology LLC**
 - 🤖 Exploring LLMs, Agentic AI, Multi-Agent Systems, and Retrieval-Augmented Generation.
 - 💻 Interested in AI engineering, NLP, deep learning, and backend development.
-- 🧩 Solved **350+ Data Structures & Algorithms problems**.
 
 ---
 
 ## 🚀 Featured Projects
 
-**1. CodeLens AI — AI-Powered Developer Intelligence Platform**
+**1. CodeLens AI — AI-Powered Developer Intelligence Platform** https://github.com/rock917/codelens-ai
 
 An AI-powered platform for semantic code search, repository analysis, and context-aware question answering. Integrates code parsing, embeddings, hybrid retrieval, and LLMs to improve code understanding.
 
 `Python` `FastAPI` `React` `TypeScript` `RAG` `ChromaDB` `PostgreSQL` `Groq`
 
-**2. DocuMind AI — Contract Clause Finder**
+**2. DocuMind AI — Contract Clause Finder**  https://github.com/rock917/Documind_AI
 
 A document intelligence platform that uses Legal-BERT and hybrid RAG to identify contract clauses and generate evidence-based answers with page-level citations.
 
 `Python` `PyTorch` `Hugging Face` `FAISS` `BM25` `FastAPI` `Docker` `Azure`
 
-**3. Amazon Review Sentiment Analyzer**
+**3. Amazon Review Sentiment Analyzer**  https://github.com/rock917/AI-Powered-Review-System
 
 A DistilBERT-powered sentiment analysis application fine-tuned on 110K Amazon reviews, with an interactive dashboard for real-time predictions and customer insights.
 
