@@ -81,7 +81,7 @@ B.Tech in Chemical Engineering | 2023–2027
 
 - **GitHub:**(https://github.com/rock917)
 - **Email:** (bobbyahirwar555@gmail.com)
-- **LinkedIn:**LinkedIn profile URL(www.linkedin.com/in/bobby-ahirwar-3893a3321)
+- **LinkedIn:**(www.linkedin.com/in/bobby-ahirwar-3893a3321)
 
 ---
 
