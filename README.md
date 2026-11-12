@@ -65,10 +65,6 @@ Worked on an autonomous AI-powered podcast outreach platform, designing a six-ag
 **Indian Institute of Technology Hyderabad**  
 B.Tech in Chemical Engineering | 2023–2027
 
-- Selected as an **FFE Scholar (2023)** through the Foundation for Excellence Program.
-- Solved **350+ DSA problems** on Take U Forward.
-- Operations Coordinator, International Relations Cell, IIT Hyderabad (2024–25).
-
 ---
 
 ## 📊 GitHub Statistics
@@ -83,9 +79,9 @@ B.Tech in Chemical Engineering | 2023–2027
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [github.com/rock917](https://github.com/rock917)
-- **Email:** [ch23btech11011@iith.ac.in](mailto:bobbyahirwar555@gmail.com)
-- **LinkedIn:** Add your LinkedIn profile URL(www.linkedin.com/in/bobby-ahirwar-3893a3321)
+- **GitHub:**(https://github.com/rock917)
+- **Email:** (bobbyahirwar555@gmail.com)
+- **LinkedIn:**LinkedIn profile URL(www.linkedin.com/in/bobby-ahirwar-3893a3321)
 
 ---
 
