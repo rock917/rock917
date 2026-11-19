@@ -1,18 +1,18 @@
-&#x20;\<!-- -->
+<!-- -->
 
-\<div align="center">
+<div align="center">
 
-\<img src="./assets/github-banner.png" width="100%" alt="Bobby Ahirwar - Software, Data Science and AI/ML Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=200&section=header&text=Bobby%20Ahirwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Data%20Science%20%7C%20AI%2FML%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Bobby Ahirwar - Software, Data Science and AI/ML Engineer"/>
 
-\<br/>
+<br/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+Data+Science+%26+AI%2FML;Engineering+Real-World+Software;Turning+Ideas+Into+Impact](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&duration=3000\&pause=900\&color=38BDF8\&center=true\&vCenter=true\&width=650\&lines=Building+Intelligent+Systems;Exploring+Data+Science+%26+AI%2FML;Engineering+Real-World+Software;Turning+Ideas+Into+Impact)" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+Data+Science+%26+AI%2FML;Engineering+Real-World+Software;Turning+Ideas+Into+Impact" alt="Typing animation"/>
 
-\<br/>
+<br/>
 
-\<a href="[https://github.com/rock917](https://github.com/rock917)"> \<img src="[https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a> \<a href="[https://www.linkedin.com/in/bobby-ahirwar-3893a3321/](https://www.linkedin.com/in/bobby-ahirwar-3893a3321/)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/> \</a> \<a href="[https://bobby-portfolio-beta.vercel.app/](https://bobby-portfolio-beta.vercel.app/)"> \<img src="[https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge\&logo=vercel\&logoColor=white)"/> \</a> \<a href="mailto:[bobbyahirwar555@gmail.com](mailto\:bobbyahirwar555@gmail.com)"> \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a>
+<a href="https://github.com/rock917"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/bobby-ahirwar-3893a3321/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://bobby-portfolio-beta.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:bobbyahirwar555@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-\</div>
+</div>
 
 ---
 
@@ -34,9 +34,9 @@ I enjoy building practical applications that combine intelligent models with sca
 
 ## 🚀 Featured Projects
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔍 CodeLens AI
 
@@ -53,10 +53,10 @@ An intelligent platform for understanding codebases through semantic code search
 
 `Python` `FastAPI` `React` `TypeScript` `RAG` `ChromaDB` `PostgreSQL` `Groq`
 
-\<a href="[https://github.com/rock917/codelens-ai](https://github.com/rock917/codelens-ai)">Explore Repository →\</a>
+<a href="https://github.com/rock917/codelens-ai">Explore Repository →</a>
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 📄 DocuMind AI
 
@@ -74,12 +74,12 @@ An AI-powered document intelligence platform designed to analyze legal contracts
 
 `Python` `PyTorch` `Legal-BERT` `FAISS` `BM25` `FastAPI` `Docker` `Azure`
 
-\<a href="[https://github.com/rock917/Documind_AI](https://github.com/rock917/Documind_AI)">Explore Repository →\</a>
+<a href="https://github.com/rock917/Documind_AI">Explore Repository →</a>
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 Amazon Review Sentiment Analyzer
 
@@ -97,10 +97,10 @@ A sentiment analysis application fine-tuned on 110K Amazon reviews to classify c
 
 `Python` `PyTorch` `DistilBERT` `Hugging Face` `Streamlit` `SQLite`
 
-\<a href="[https://github.com/rock917/AI-Powered-Review-System](https://github.com/rock917/AI-Powered-Review-System)">Explore Repository →\</a>
+<a href="https://github.com/rock917/AI-Powered-Review-System">Explore Repository →</a>
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### ⚙️ What I'm Building Next
 
@@ -114,9 +114,9 @@ I am continuously exploring new ways to combine software engineering with intell
 - Production-ready LLM systems
 - Scalable AI-powered applications
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -124,7 +124,7 @@ I am continuously exploring new ways to combine software engineering with intell
 
 ### Software Trainee Intern | 360 Technology LLC
 
-\<sub>June 2026 – July 2026\</sub>
+<sub>June 2026 – July 2026</sub>
 
 Worked on an autonomous AI-powered podcast outreach platform.
 
@@ -138,25 +138,25 @@ Worked on an autonomous AI-powered podcast outreach platform.
 
 ## 🛠️ Technical Skills
 
-\<div align="center">
+<div align="center">
 
 ### Programming Languages
 
-\<img src="[https://skillicons.dev/icons?i=python,cpp,c&theme=dark](https://skillicons.dev/icons?i=python,cpp,c\&theme=dark)"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark"/>
 
 ### AI / Machine Learning
 
-\<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn\&theme=dark)"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
 
 ### Backend & Databases
 
-\<img src="[https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis&theme=dark](https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis\&theme=dark)"/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis&theme=dark"/>
 
 ### Tools & Platforms
 
-\<img src="[https://skillicons.dev/icons?i=docker,azure,git,github,jupyter,vscode&theme=dark](https://skillicons.dev/icons?i=docker,azure,git,github,jupyter,vscode\&theme=dark)"/>
+<img src="https://skillicons.dev/icons?i=docker,azure,git,github,jupyter,vscode&theme=dark"/>
 
-\</div>
+</div>
 
 | Category            | Technologies                                                       |
 | ------------------- | ------------------------------------------------------------------ |
@@ -181,38 +181,36 @@ B.Tech — Chemical Engineering
 
 2023 – 2027
 
-##
-
 ---
 
 ## 📈 GitHub Analytics
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/rock917](https://github.com/rock917)">
-\<img height="170" src="[https://github-readme-stats.vercel.app/api?username=rock917&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=rock917\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github\&include_all_commits=true)"/>
-\</a>
+<a href="https://github.com/rock917">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rock917&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+</a>
 
-\<a href="[https://github.com/rock917](https://github.com/rock917)">
-\<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rock917&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=rock917\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
-\</a>
+<a href="https://github.com/rock917">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rock917&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
-\<br/>
+<br/>
 
-\<img width="90%" src="[https://streak-stats.demolab.com?user=rock917&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=rock917\&theme=tokyonight\&hide_border=true)"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=rock917&theme=tokyonight&hide_border=true"/>
 
-\<br/>
+<br/>
 
-\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=rock917&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=rock917\&theme=tokyo-night\&hide_border=true\&area=true)"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rock917&theme=tokyo-night&hide_border=true&area=true"/>
 
-\</div>
+</div>
 
 ---
 
 ## 🌱 Beyond Coding
 
-\<details>
-\<summary>\<b>🔭 What I'm currently exploring\</b>\</summary>
+<details>
+<summary><b>🔭 What I'm currently exploring</b></summary>
 
 - Advanced Retrieval-Augmented Generation architectures
 - Agentic AI and multi-agent systems
@@ -220,47 +218,48 @@ B.Tech — Chemical Engineering
 - Production-ready AI engineering
 - Scalable backend and software architecture
 
-\</details>
+</details>
 
-\<details>
-\<summary>\<b>💡 My engineering philosophy\</b>\</summary>
+<details>
+<summary><b>💡 My engineering philosophy</b></summary>
 
 I believe the best way to understand technology is to build with it.
 
 I focus on learning the fundamentals, applying concepts to real-world problems, experimenting with new technologies and continuously improving what I create.
 
-\</details>
+</details>
 
 ---
 
 ## 🤝 Let's Connect
 
-\<div align="center">
+<div align="center">
 
 **Interested in AI, Data Science, Software Engineering or building something interesting?**
 
 I'm always open to connecting, learning and collaborating.
 
-\<br/>
+<br/>
 
-\<a href="[https://www.linkedin.com/in/bobby-ahirwar-3893a3321/](https://www.linkedin.com/in/bobby-ahirwar-3893a3321/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-Let](https://img.shields.io/badge/LinkedIn-Let)'s_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-\</a>
+<a href="https://www.linkedin.com/in/bobby-ahirwar-3893a3321/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-\<a href="mailto:[bobbyahirwar555@gmail.com](mailto\:bobbyahirwar555@gmail.com)">
-\<img src="[https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail)"/>
-\</a>
+<a href="mailto:bobbyahirwar555@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-\<a href="[https://bobby-portfolio-beta.vercel.app/](https://bobby-portfolio-beta.vercel.app/)">
-\<img src="[https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=vercel](https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge\&logo=vercel)"/>
-\</a>
+<a href="https://bobby-portfolio-beta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=vercel"/>
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:075985,100:0284C7\&height=110\&section=footer)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=110&section=footer" width="100%"/>
 
 **BUILD. LEARN. INNOVATE.**
 
-\<sub>Thanks for visiting my GitHub profile! ⭐\</sub>
+<sub>Thanks for visiting my GitHub profile! ⭐</sub>
 
-\</div>
+</div>
+
