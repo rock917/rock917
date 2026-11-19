@@ -188,7 +188,7 @@ B.Tech — Chemical Engineering
 <div align="center">
 
 <a href="https://github.com/rock917">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rock917&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rock917&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </a>
 
 <a href="https://github.com/rock917">
