@@ -1,8 +1,6 @@
-<!-- -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=200&section=header&text=Bobby%20Ahirwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Data%20Science%20%7C%20AI%2FML%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Bobby Ahirwar - Software, Data Science and AI/ML Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=200&section=header&text=Bobby%20Ahirwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Applied%20AI%20%7C%20Business%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Bobby Ahirwar - Software Engineering, Applied AI and Business Systems"/>
 
 <br/>
 
@@ -20,13 +18,13 @@
 
 Hi, I'm **Bobby Ahirwar**, a final-year B.Tech student at **IIT Hyderabad**, interested in Software Engineering, Data Science, and Artificial Intelligence.
 
-I enjoy building practical applications that combine intelligent models with scalable software systems. My work spans machine learning, deep learning, Generative AI, LLMs, RAG pipelines, and backend development.
+I build practical applications that connect AI models, backend services, and business workflows—from invoice review and ERP integration to document search and code understanding.
 
 - 🎓 B.Tech in Chemical Engineering, IIT Hyderabad (2023–2027)
-- 💼 Software Trainee Intern at 360 Technology LLC
+- 💼 Software Trainee Intern at 360 Technology LLC (June–July 2026)
 - 🤖 Exploring Agentic AI, Multi-Agent Systems and LLM applications
-- 🔍 Interested in AI engineering, data-driven solutions and software development
-- 🚀 Currently evolving **CodeLens AI**, an AI-powered developer intelligence platform
+- 🔍 Interested in software development, applied AI, and enterprise systems integration
+- 🚀 Building **Ledgerly** and **CodeLens AI**: business workflows and developer intelligence
 
 **My approach:** Learn deeply. Build practically. Improve continuously.
 
@@ -36,6 +34,28 @@ I enjoy building practical applications that combine intelligent models with sca
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🧾 Ledgerly
+
+**Invoice Review & ERPNext Integration**
+
+An accounts-payable application that turns invoice PDFs into traceable checks and human-reviewed decisions.
+
+- PDF/OCR extraction with source evidence
+- Supplier/PO matching and duplicate detection
+- Atomic approval, PO balance updates, and reviewer audit history
+- Tested local ERPNext pilot: supplier/PO import and approved-invoice draft export
+
+**Tech Stack**
+
+`Python` `FastAPI` `PostgreSQL` `React` `Groq` `Supabase` `Azure` `ERPNext`
+
+**[Repository](https://github.com/rock917/ledgerly-ai-invoice-review) · [Live demo](https://ledgerly-ai-invoice-review.vercel.app/) · [Walkthrough](https://ledgerly-ai-invoice-review.vercel.app/assets/tutorial/ledgerly-walkthrough-narrated.mp4)**
+
+<sub>ERPNext runs locally and is disabled in the public demo. Exports create drafts; no payments are initiated.</sub>
+
+</td>
 <td width="50%" valign="top">
 
 ### 🔍 CodeLens AI
@@ -56,6 +76,8 @@ An intelligent platform for understanding codebases through semantic code search
 <a href="https://github.com/rock917/codelens-ai">Explore Repository →</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📄 DocuMind AI
@@ -77,8 +99,6 @@ An AI-powered document intelligence platform designed to analyze legal contracts
 <a href="https://github.com/rock917/Documind_AI">Explore Repository →</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 Amazon Review Sentiment Analyzer
@@ -98,21 +118,6 @@ A sentiment analysis application fine-tuned on 110K Amazon reviews to classify c
 `Python` `PyTorch` `DistilBERT` `Hugging Face` `Streamlit` `SQLite`
 
 <a href="https://github.com/rock917/AI-Powered-Review-System">Explore Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ What I'm Building Next
-
-**Beyond Traditional Software**
-
-I am continuously exploring new ways to combine software engineering with intelligent systems.
-
-- Agentic AI applications
-- Multi-agent orchestration
-- Advanced RAG architectures
-- Production-ready LLM systems
-- Scalable AI-powered applications
 
 </td>
 </tr>
@@ -168,7 +173,8 @@ Worked on an autonomous AI-powered podcast outreach platform.
 | Retrieval & Search  | BM25, FAISS, ChromaDB, Hybrid Search, RRF                          |
 | Backend Development | FastAPI, REST APIs, JWT, OAuth 2.0, Celery                         |
 | Databases           | PostgreSQL, MySQL, Redis, SQLite, SQL                              |
-| Cloud & Deployment  | Docker, Azure VM, Hugging Face Hub, Streamlit                      |
+| Cloud & Deployment | Docker, Azure App Service, Azure VM, Vercel, Supabase, Hugging Face Hub |
+| Business Workflows | ERPNext local integration, purchase-order matching, invoice validation, approval audit trails |
 | Data Science        | NumPy, Pandas, Matplotlib, Seaborn                                 |
 
 ---
@@ -181,9 +187,16 @@ B.Tech — Chemical Engineering
 
 2023 – 2027
 
+**Operations Coordinator · International Relations Cell (2024–2025)**
+
+Coordinated international seminars and cultural exchange events, and facilitated communication with international delegates.
+
 ---
 
 ## 📈 GitHub Analytics
+
+<details>
+<summary><b>View GitHub activity and language statistics</b></summary>
 
 <div align="center">
 
@@ -207,6 +220,8 @@ B.Tech — Chemical Engineering
 
 ---
 
+</details>
+
 ## 🌱 Beyond Coding
 
 <details>
@@ -216,7 +231,7 @@ B.Tech — Chemical Engineering
 - Agentic AI and multi-agent systems
 - LLM evaluation and optimization
 - Production-ready AI engineering
-- Scalable backend and software architecture
+- Backend architecture and enterprise API integrations
 
 </details>
 
@@ -235,7 +250,7 @@ I focus on learning the fundamentals, applying concepts to real-world problems, 
 
 <div align="center">
 
-**Interested in AI, Data Science, Software Engineering or building something interesting?**
+**Interested in software, applied AI, or business systems?**
 
 I'm always open to connecting, learning and collaborating.
 
